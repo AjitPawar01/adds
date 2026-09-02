@@ -1,6 +1,6 @@
 {
-  "enabled": true,
-  "discount": "50",
-  "validTill": "15 Sept 2026",
-  "days": "10"
+  "enabled": false,
+  "discount": "75",
+  "validTill": "19 Sept 2026",
+  "days": "15"
 }
