@@ -1,6 +1,6 @@
 {
   "minVersion": {
-    "android": "1.2",
+    "android": "1.3",
     "ios": "1.2"
   },
   "message": "A new version of hailO is available. Please update to continue.",
