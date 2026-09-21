@@ -1,11 +1,11 @@
 {
   "minVersion": {
-    "android": "1.2.1",
-    "ios": "1.3.0"
+    "android": "1.2",
+    "ios": "1.2"
   },
   "message": "A new version of hailO is available. Please update to continue.",
   "updateUrl": {
-    "android": "https://play.google.com/store/apps/details?id=com.hailo.app",
-    "ios": "https://apps.apple.com/app/id0000000000"
+    "android": "https://play.google.com/store/apps/details?id=com.hailoapp",
+    "ios": "https://apps.apple.com/app/hailo-consignor/id6788633691"
   }
 }
