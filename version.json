@@ -1,7 +1,7 @@
 {
   "minVersion": {
-    "android": "1.2",
-    "ios": "1.2.1"
+    "android": "1.4",
+    "ios": "1.4"
   },
   "message": "A new version of hailO is available. Please update to continue.",
   "updateUrl": {
